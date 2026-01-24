@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Abu Get Legal Representation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            line-height: 1.7;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            background: #2c5282;
+            color: white;
+            padding: 30px 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: normal;
+            margin-bottom: 8px;
+        }
+        
+        .header .subtitle {
+            font-size: 18px;
+            font-style: italic;
+            opacity: 0.9;
+        }
+        
+        .photo-section {
+            text-align: center;
+            padding: 30px 40px 20px;
+        }
+        
+        .photo-section img {
+            max-width: 280px;
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .photo-caption {
+            margin-top: 12px;
+            font-size: 14px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .content {
+            padding: 20px 40px 40px;
+        }
+        
+        .content p {
+            margin-bottom: 18px;
+            font-size: 16px;
+        }
+        
+        .highlight {
+            background: #ebf4ff;
+            border-left: 4px solid #2c5282;
+            padding: 20px 25px;
+            margin: 25px 0;
+        }
+        
+        .highlight p {
+            margin-bottom: 0;
+            font-weight: 500;
+        }
+        
+        .goal-box {
+            background: #2c5282;
+            color: white;
+            padding: 25px;
+            text-align: center;
+            margin: 30px 0;
+            border-radius: 6px;
+        }
+        
+        .goal-box .amount {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .goal-box .label {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        
+        .cta-section {
+            background: #f7fafc;
+            padding: 30px 40px;
+            text-align: center;
+            border-top: 1px solid #e2e8f0;
+        }
+        
+        .cta-section p {
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        
+        .donate-button {
+            display: inline-block;
+            background: #38a169;
+            color: white;
+            padding: 15px 40px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        
+        .donate-button:hover {
+            background: #2f855a;
+        }
+        
+        .footer {
+            padding: 25px 40px;
+            text-align: center;
+            font-size: 14px;
+            color: #666;
+            border-top: 1px solid #e2e8f0;
+        }
+        
+        @media (max-width: 600px) {
+            .header, .content, .cta-section, .footer {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+            
+            .header h1 {
+                font-size: 24px;
+            }
+            
+            .photo-section img {
+                max-width: 220px;
+            }
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            
+            .container {
+                box-shadow: none;
+            }
+            
+            .donate-button {
+                border: 2px solid #38a169;
+                color: #38a169;
+                background: white;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>URGENT LEGAL FUND FOR ABU</h1>
+            <div class="subtitle">Help Bring a Good Man Home</div>
+        </div>
+        
+        <div class="photo-section">
+            <img src="Abu.jpeg" alt="Abu at a community event">
+            <div class="photo-caption">Abu at a community gathering in Fargo-Moorhead</div>
+        </div>
+        
+        <div class="content">
+            <p>Abu came to America seeking safety after surviving unimaginable violence in his home country. He lost family members to political persecution. He witnessed things no person should ever have to witness. And despite all of that, everyone who meets Abu describes the same thing: his kindness, his quiet strength, and his determination to build a better life.</p>
+            
+            <p>Since arriving in the Fargo-Moorhead community, Abu has been exactly the kind of person any neighborhood would be lucky to have. He enrolled in a welding training program to build job skills. He volunteers at community events. He helps his neighbors without being asked. He has become a father figure to the children in his life. He shows up for the people around him, consistently and without fanfare.</p>
+            
+            <div class="highlight">
+                <p>Now Abu needs us to show up for him.</p>
+            </div>
+            
+            <p>Abu has been detained since November 5, 2025. His initial request for bond was denied, and he has now been in custody for nearly three months. His legal team has identified a critical next step: filing a habeas corpus petition, which requires an attorney with specialized expertise. That attorney requires a $5,000 retainer, and time is of the essence.</p>
+            
+            <p>This is not about politics. This is about a human being who has already survived tremendous suffering and is now fighting for a chance to live in safety. A man who, despite everything he has been through, still finds ways to lift up the people around him.</p>
+            
+            <div class="goal-box">
+                <div class="amount">$5,000</div>
+                <div class="label">Legal Fund Goal</div>
+            </div>
+            
+            <p>We are asking for your help to cover the attorney's retainer so Abu can have the legal representation he deserves. Any amount helps. If you cannot contribute financially, please consider sharing this page with others who might be able to help.</p>
+        </div>
+        
+        <div class="cta-section">
+            <p><strong>Ready to help?</strong></p>
+            <!-- Replace # with your actual GoFundMe link -->
+            <a href="#" class="donate-button">Donate Now</a>
+            <p style="margin-top: 20px; font-size: 14px; color: #666;">Or contact us directly to arrange payment</p>
+        </div>
+        
+        <div class="footer">
+            <p>Thank you for standing with Abu.</p>
+        </div>
+    </div>
+</body>
+</html>
